@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.9" client="site">
+  <name>Currency Converter</name>
+  <author>Your Name</author>
+  <version>1.0.0</version>
+  <description>Конвертер валют USD, EUR, RUB в INR.</description>
+  <files>
+    <filename module="mod_currency_converter">mod_currency_converter.php</filename>
+    <folder>tmpl</folder>
+    <filename>exchange_rates.json</filename>
+  </files>
+</extension>
