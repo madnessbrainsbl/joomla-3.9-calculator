@@ -102,20 +102,3 @@ Add new currencies by:
 2. Updating rate JSON files with new currency codes
 3. Modifying commission calculation logic if needed
 
-## License
-
-GNU GPL v3.0 © 2023 [Your Name]
-
-Support
-
-
-Key elements included:
-1. Clear installation/configuration steps
-2. JSON structure examples
-3. Commission calculation explanation
-4. Customization options
-5. Licensing information
-7. Support channels
-8. Visual hierarchy with emojis
-9. File structure requirements
-10. Rate update recommendations
